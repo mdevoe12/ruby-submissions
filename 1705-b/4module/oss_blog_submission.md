@@ -38,7 +38,7 @@
 
 ## Matt DeVoe
 
-* Link to Blog Post: 
+* Link to Blog Post: https://gist.github.com/mdevoe12/93cdf3a01980f4c5689c53233fd6b5f0
 
 ## Michael Centrelli
 
